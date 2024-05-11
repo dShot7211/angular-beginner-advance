@@ -1,3 +1,5 @@
+git remote add origin https://github.com/dShot7211/angular-beginner-advance.git
+
 # AngularCourse
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.7.
